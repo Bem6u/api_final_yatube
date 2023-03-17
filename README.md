@@ -1,7 +1,7 @@
 # api_final
 
 ## Автор:
-Эдуард" [Bem6u](https://github.com/Bem6u) Пирогова
+Эдуард" [Bem6u](https://github.com/Bem6u) Насыров
 
 
 ## Описание:
